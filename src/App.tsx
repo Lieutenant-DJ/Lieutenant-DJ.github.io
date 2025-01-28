@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import linkedIn from '../LinkedIn-Logos/LI-Logo.png'
 import './App.css'
 
@@ -25,7 +23,6 @@ function Footer(){
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
